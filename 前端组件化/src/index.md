@@ -1,7 +1,7 @@
 title: 前端组件化分享
 speaker: Soyal
 transition: vertical3d
-theme: dark
+theme: light
 
 [slide]
 ## outline
